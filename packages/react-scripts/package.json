@@ -1,6 +1,6 @@
 {
   "name": "tdex-react-scripts",
-  "version": "4.0.0",
+  "version": "4.0.0-tdex",
   "description": "TDex Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
